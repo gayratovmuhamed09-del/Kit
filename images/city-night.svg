@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1226"/><stop offset="1" stop-color="#2b3563"/></linearGradient>
+<radialGradient id="m"><stop offset="0" stop-color="#fff6d8"/><stop offset=".6" stop-color="#f4d48a" stop-opacity=".5"/><stop offset="1" stop-color="#f4d48a" stop-opacity="0"/></radialGradient></defs>
+<rect width="1600" height="1000" fill="url(#s)"/>
+<circle cx="1220" cy="220" r="200" fill="url(#m)"/><circle cx="1220" cy="220" r="70" fill="#fff3cf"/>
+<g fill="#fff" opacity=".7"><circle cx="200" cy="120" r="2"/><circle cx="420" cy="80" r="1.5"/><circle cx="650" cy="160" r="2"/><circle cx="900" cy="60" r="1.5"/><circle cx="1450" cy="110" r="2"/><circle cx="80" cy="300" r="1.5"/></g>
+<g fill="#1a2140"><rect x="0" y="560" width="160" height="440"/><rect x="150" y="470" width="190" height="530"/><rect x="330" y="610" width="140" height="390"/><rect x="460" y="420" width="210" height="580"/><rect x="660" y="540" width="160" height="460"/><rect x="810" y="380" width="230" height="620"/><rect x="1030" y="580" width="170" height="420"/><rect x="1190" y="460" width="200" height="540"/><rect x="1380" y="520" width="220" height="480"/></g>
+<g fill="#f4b860"><rect x="190" y="520" width="22" height="30"/><rect x="250" y="600" width="22" height="30"/><rect x="510" y="480" width="22" height="30"/><rect x="580" y="640" width="22" height="30"/><rect x="860" y="440" width="22" height="30"/><rect x="960" y="560" width="22" height="30"/><rect x="900" y="700" width="22" height="30"/><rect x="1240" y="520" width="22" height="30"/><rect x="1320" y="660" width="22" height="30"/><rect x="1430" y="580" width="22" height="30"/><rect x="700" y="610" width="22" height="30"/><rect x="1080" y="640" width="22" height="30"/></g>
+<rect x="0" y="880" width="1600" height="120" fill="#0f1428"/>
+<g stroke="#9fb0e8" stroke-width="2" opacity=".35">
+<line x1="100" y1="100" x2="80" y2="160"/><line x1="300" y1="300" x2="280" y2="360"/><line x1="520" y1="150" x2="500" y2="210"/><line x1="740" y1="330" x2="720" y2="390"/><line x1="980" y1="200" x2="960" y2="260"/><line x1="1100" y1="420" x2="1080" y2="480"/><line x1="1380" y1="300" x2="1360" y2="360"/><line x1="1520" y1="500" x2="1500" y2="560"/><line x1="420" y1="700" x2="400" y2="760"/><line x1="860" y1="760" x2="840" y2="820"/><line x1="1260" y1="780" x2="1240" y2="840"/><line x1="200" y1="820" x2="180" y2="880"/></g>
+</svg>
